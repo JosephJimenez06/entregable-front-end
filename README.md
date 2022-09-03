@@ -1,5 +1,3 @@
-
-
 # Demo del proyecto
 
 Aquí pueden ver una demo del funcionamiento de la aplicación.
